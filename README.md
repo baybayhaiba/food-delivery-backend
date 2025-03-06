@@ -30,7 +30,7 @@
 
 File này mô tả ý nghĩa và chức năng của từng route API được liệt kê trong [Mục lục API](api-table-of-contents.md).
 
------------------------------ PHASE2 ----------------------------------------------
+# PHASE2 
 Lộ trình Phát Triển Tiếp Theo (Tổng Quan Giai Đoạn & Mô Tả):
 
 Giai đoạn 1: Hoàn thiện Chức năng Cốt lõi & Nâng cao Trải nghiệm Người dùng
